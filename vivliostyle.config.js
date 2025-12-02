@@ -1,11 +1,11 @@
 module.exports = {
-  title: 'atm10-quest-guides', // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
+  title: 'All the Mods 10クエスト攻略ガイド', // populated into `publication.json`, default to `title` of the first entry or `name` in `package.json`.
   author: 'MH35 <mh35jp@gmail.com>', // default to `author` in `package.json` or undefined.
-  // language: 'ja', // default to undefined.
-  // size: 'A4', // paper size.
+  language: 'ja', // default to undefined.
+  size: 'A4', // paper size.
   theme: '@vivliostyle/theme-techbook@^2.0.1', // .css or local dir or npm package. default to undefined.
   entry: [
-    'manuscript.md', // `title` is automatically guessed from the file (frontmatter > first heading).
+    'about_quests.md', // `title` is automatically guessed from the file (frontmatter > first heading).
     // {
     //   path: 'epigraph.md',
     //   title: 'Epigraph', // title can be overwritten (entry > file),

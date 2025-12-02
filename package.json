@@ -11,5 +11,8 @@
     "@vivliostyle/cli": "latest"
   },
   "license": "MIT",
-  "private": true
+  "private": true,
+  "repository": {
+    "url": "https://github.com/mh35/atm10-quest-guides"
+  }
 }
