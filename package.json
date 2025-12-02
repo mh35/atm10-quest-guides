@@ -1,0 +1,15 @@
+{
+  "name": "atm-10quest-guides",
+  "description": "atm10-quest-guides",
+  "version": "0.0.0",
+  "author": "MH35 <mh35jp@gmail.com>",
+  "scripts": {
+    "build": "vivliostyle build",
+    "preview": "vivliostyle preview"
+  },
+  "dependencies": {
+    "@vivliostyle/cli": "latest"
+  },
+  "license": "MIT",
+  "private": true
+}
