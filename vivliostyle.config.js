@@ -7,6 +7,7 @@ module.exports = {
   entry: [
     'about_atm10.md',
     'about_quests.md', // `title` is automatically guessed from the file (frontmatter > first heading).
+    'welcome.md',
     // {
     //   path: 'epigraph.md',
     //   title: 'Epigraph', // title can be overwritten (entry > file),
