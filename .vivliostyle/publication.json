@@ -8,7 +8,7 @@
   "name": "All the Mods 10クエスト攻略ガイド",
   "author": "MH35 <mh35jp@gmail.com>",
   "inLanguage": "ja",
-  "dateModified": "2025-12-04T01:51:16.188Z",
+  "dateModified": "2025-12-04T03:25:03.420Z",
   "readingOrder": [
     {
       "url": "about_atm10.html",
@@ -21,6 +21,10 @@
     {
       "url": "welcome.html",
       "name": "ようこそ"
+    },
+    {
+      "url": "bounty_board.html",
+      "name": "賞金首ボート"
     }
   ],
   "resources": [],
