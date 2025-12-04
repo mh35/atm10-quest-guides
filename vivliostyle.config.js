@@ -5,6 +5,7 @@ module.exports = {
   size: 'A4', // paper size.
   theme: '@vivliostyle/theme-techbook@^2.0.1', // .css or local dir or npm package. default to undefined.
   entry: [
+    'about_atm10.md',
     'about_quests.md', // `title` is automatically guessed from the file (frontmatter > first heading).
     // {
     //   path: 'epigraph.md',
