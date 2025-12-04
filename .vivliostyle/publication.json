@@ -1,0 +1,28 @@
+{
+  "@context": [
+    "https://schema.org",
+    "https://www.w3.org/ns/pub-context"
+  ],
+  "type": "Book",
+  "conformsTo": "https://github.com/vivliostyle/vivliostyle-cli",
+  "name": "All the Mods 10クエスト攻略ガイド",
+  "author": "MH35 <mh35jp@gmail.com>",
+  "inLanguage": "ja",
+  "dateModified": "2025-12-04T01:51:16.188Z",
+  "readingOrder": [
+    {
+      "url": "about_atm10.html",
+      "name": "All the Mods 10について"
+    },
+    {
+      "url": "about_quests.html",
+      "name": "All the Mods 10のクエストについて"
+    },
+    {
+      "url": "welcome.html",
+      "name": "ようこそ"
+    }
+  ],
+  "resources": [],
+  "links": []
+}
