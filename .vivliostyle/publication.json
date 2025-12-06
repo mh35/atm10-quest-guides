@@ -8,8 +8,14 @@
   "name": "All the Mods 10クエスト攻略ガイド",
   "author": "MH35 <mh35jp@gmail.com>",
   "inLanguage": "ja",
-  "dateModified": "2025-12-05T05:09:01.421Z",
+  "dateModified": "2025-12-06T00:42:06.952Z",
   "readingOrder": [
+    {
+      "url": "index.html",
+      "name": "Table of Contents",
+      "rel": "contents",
+      "type": "LinkedResource"
+    },
     {
       "url": "about_atm10.html",
       "name": "All the Mods 10について"
